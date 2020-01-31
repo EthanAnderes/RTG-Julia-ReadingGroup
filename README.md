@@ -57,7 +57,7 @@ If there are changes to https://github.com/WPolonik/RTG-Julia-ReadingGroup you w
 
 
 ```
-shell git pull upstream master
+shell: git pull upstream master
 ```
 
 
